@@ -93,7 +93,7 @@
     <Compile Include="ky.aspx.designer.cs">
       <DependentUpon>ky.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Listing.cs" />
+    <Compile Include="App_Code\Listing.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
