@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\pandahelp",
+    "\\pandahelp app"
   ],
-  "SelectedNode": "\\TextFile1.txt",
+  "SelectedNode": "\\pandahelp\\pandahelp.sln",
   "PreviewInSolutionExplorer": false
 }
